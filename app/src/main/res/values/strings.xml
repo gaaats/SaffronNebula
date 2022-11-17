@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Avia Winner</string>
+
+    <string name="dfrgtapp_name__">Avia\nWinner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="drgtdfrgtgtapp_name_author">© Avia Winner</string>
+
+    <string name="dfgtimage_chooserefrgt">Pick Your Image</string>
+    <string name="facebook_app_idfrgtgtg">535828031294341</string>
+    <string name="fb_login_protocol_scheme">fb535828031294341</string>
+</resources>
